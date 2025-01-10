@@ -1,12 +1,4 @@
-<div align="center">
-  <a href="https://swarms.world">
-    <img src="![HİVEBANNER](https://github.com/user-attachments/assets/89e5c854-1021-43c3-8887-b3b7bcf691d1)
-" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
-  </a>
-</div>
-<p align="center">
-  <em>The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework </em>
-</p>
+![HİVEBANNER](https://github.com/user-attachments/assets/89e5c854-1021-43c3-8887-b3b7bcf691d1)
 
 <p align="center">
     <a href="https://pypi.org/project/swarms/" target="_blank">
